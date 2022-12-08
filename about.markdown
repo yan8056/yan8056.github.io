@@ -4,15 +4,21 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+👋 Hello, I'm MUSESE00([@yan8056](https://github.com/yan8056)).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+⌨ A back-end software development engineer and a cat lover.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+💗 I dream of independently developing a software that is loved and widely used by people.
 
+ Although I have been working for several years, but I just work for survival.
+ One day, I realized that this would not work, and I would probably stay here ten years later.
+ I began to recall my thoughts when I first entered this industry.
+ Now I decide to explore the secrets of computers from scratch and start designing my own software.
+ I hope I can fulfill my dream before I have children and a husband😆.
 
-[jekyll-organization]: https://github.com/jekyll
+ Based on these situations, I will publish some of my learning and research (perhaps development) content here.
+ I hope these contents can also help you.
+
+ If you have any questions or want to discuss with me, please contact me through my email. It's in the footer of this site.
+
+Thank you for reading :)
